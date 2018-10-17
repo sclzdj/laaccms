@@ -1,0 +1,16 @@
+{
+    "name": "Wechat",
+    "alias": "wechat",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Wechat\\Providers\\WechatServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
